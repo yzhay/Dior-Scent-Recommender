@@ -1,0 +1,25 @@
+[
+  {
+    "id": "westfield",
+    "name": "Westfield Sydney",
+    "city": "Sydney",
+    "stock": 15,
+    "hours": "9am - 9pm",
+    "phone": "0212345678",
+    "latitude": -33.870452,
+    "longitude": 151.207047,
+    "crowd": "Low"
+  },
+  {
+    "id": "qvb",
+    "name": "Queen Victoria Building",
+    "city": "Sydney",
+    "stock": 8,
+    "hours": "10am - 6pm",
+    "phone": "0287654321",
+    "latitude": -33.8731,
+    "longitude": 151.2069,
+    "crowd": "Moderate"
+  }
+]
+

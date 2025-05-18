@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "question": "What is your gender?",
+    "options": [
+      { "id": 101, "text": "Male", "imageName": "male" },
+      { "id": 102, "text": "Female", "imageName": "female" },
+      { "id": 103, "text": "Other", "imageName": "other" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is your age range?",
+    "options": [
+      { "id": 201, "text": "Under 18", "imageName": "age_under18" },
+      { "id": 202, "text": "18–25", "imageName": "age_18_25" },
+      { "id": 203, "text": "26–35", "imageName": "age_26_35" },
+      { "id": 204, "text": "36 and above", "imageName": "age_36_up" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which scent family do you prefer?",
+    "options": [
+      { "id": 1, "text": "Floral", "imageName": "Floral" },
+      { "id": 2, "text": "Woody", "imageName": "Woody" },
+      { "id": 3, "text": "Fresh", "imageName": "Fresh" },
+      { "id": 4, "text": "Oriental", "imageName": "Oriental" }
+    ]
+  }
+]
