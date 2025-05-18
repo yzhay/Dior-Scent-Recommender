@@ -1,0 +1,64 @@
+# Dior Scent Recommender
+
+[GitHub Repository – yzhay/Dior-Scent-Recommender](https://github.com/yzhay/Dior-Scent-Recommender)
+
+## Project Overview
+
+**Dior Scent Recommender** is an iOS app that helps users discover the Dior fragrance that best matches their personal preferences. A short questionnaire analyses the user’s answers and produces tailored recommendations.
+
+## Key Features
+
+* **Personalised Questionnaire** – Captures gender, age range and scent preferences.
+* **Smart Recommendation Engine** – Suggests the most suitable Dior fragrance based on the questionnaire.
+* **Rich Product Details** – Each suggested perfume includes a concise description and rating.
+* **Nearby Stores** – Quickly locate Dior boutiques that stock the recommended fragrance.
+
+## Tech Stack
+
+* **Swift**
+* **SwiftUI**
+* **Core Data** – Local data persistence
+* **MapKit** – Store-locator map view
+
+## Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yzhay/Dior-Scent-Recommender.git
+   ```
+
+2. **Open the project in Xcode**
+
+   ```bash
+   cd Dior-Scent-Recommender
+   open "Scent Recommender.xcodeproj"
+   ```
+
+3. **Run the app**
+   Press **⌘ R** in Xcode to build and launch on a simulator or device.
+
+## Usage
+
+1. Launch the app and tap **Start** to open the questionnaire.
+2. Answer a few quick questions about your fragrance preferences.
+3. View your personalised Dior fragrance recommendation.
+4. Explore product details and locate nearby stores that carry it.
+
+## Project Structure
+
+| Folder         | Purpose                                                         |
+| -------------- | --------------------------------------------------------------- |
+| **Models**     | Data models (e.g. `Question`, `AnswerOption`, `Recommendation`) |
+| **Views**      | All SwiftUI view components                                     |
+| **ViewModels** | Business logic and data processing                              |
+| **Resources**  | JSON data and other bundled resources                           |
+| **Assets**     | Image assets (product photos, icons, etc.)                      |
+
+## Contributing
+
+Contributions are welcome! Feel free to open an **Issue** for bugs or feature requests, or submit a **Pull Request** with improvements.
+
+## License
+
+This project is released under the **[MIT License](LICENSE)**.
